@@ -1,2 +1,5 @@
 # Location_Table
-built with React Table library after flattening the object input
+built it with React Table library after flattening the object input
+
+```npm install```
+```npm start```
